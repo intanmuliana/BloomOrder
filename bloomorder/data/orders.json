@@ -1,0 +1,28 @@
+[
+    {
+        "id": "69db4afc3b849",
+        "tanggal_order": "2026-04-12 09:34:20",
+        "tanggal": "2026-04-30",
+        "jenis_buket": "Buket Bunga Asli",
+        "ukuran": "Small",
+        "harga": 150000,
+        "warna": "Bold Red",
+        "nama_pengirim": "kanaya",
+        "nama_penerima": "lisa",
+        "ucapan": "selamat ulang tahun",
+        "catatan_tambahan": "menggunakan pita warna pink"
+    },
+    {
+        "id": "69db4c287a139",
+        "tanggal_order": "2026-04-12 09:39:20",
+        "tanggal": "2026-04-22",
+        "jenis_buket": "Buket Bunga Asli",
+        "ukuran": "Large",
+        "harga": 400000,
+        "warna": "Sunset Orange",
+        "nama_pengirim": "kirana",
+        "nama_penerima": "lala",
+        "ucapan": "selamat kelulusannn",
+        "catatan_tambahan": "pakai pita warna oranye"
+    }
+]

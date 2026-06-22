@@ -1,0 +1,47 @@
+[
+    {
+        "name": "Pastel Pink",
+        "code": "#f8bbd0",
+        "value": "Pastel Pink"
+    },
+    {
+        "name": "Soft Blue",
+        "code": "#bbdef5",
+        "value": "Soft Blue"
+    },
+    {
+        "name": "White & Gold",
+        "code": "#fff9c4",
+        "value": "White & Gold"
+    },
+    {
+        "name": "Bold Red",
+        "code": "#ef5350",
+        "value": "Bold Red"
+    },
+    {
+        "name": "Purple Lavender",
+        "code": "#ce93d8",
+        "value": "Purple Lavender"
+    },
+    {
+        "name": "Sunset Orange",
+        "code": "#ffab91",
+        "value": "Sunset Orange"
+    },
+    {
+        "name": "Forest Green",
+        "code": "#a5d6a7",
+        "value": "Forest Green"
+    },
+    {
+        "name": "All White",
+        "code": "#ffffff",
+        "value": "All White"
+    },
+    {
+        "name": "black",
+        "code": "#000000",
+        "value": "black"
+    }
+]

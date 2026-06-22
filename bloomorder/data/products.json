@@ -1,0 +1,60 @@
+[
+    {
+        "id": "fresh",
+        "name": "Buket Snack",
+        "price_s": 150000,
+        "price_m": 250000,
+        "price_l": 400000,
+        "icon": "\ud83c\udf39",
+        "color": null,
+        "photos": [
+            "uploads\/products\/1776046656_snack1.jpeg",
+            "uploads\/products\/1776046664_snack2.jpeg",
+            "uploads\/products\/1776046680_snack3.jpeg"
+        ],
+        "photo": ""
+    },
+    {
+        "id": "paper",
+        "name": "Buket Bunga Satin",
+        "price_s": 100000,
+        "price_m": 175000,
+        "price_l": 275000,
+        "icon": "\ud83c\udf38",
+        "color": null,
+        "photos": [
+            "uploads\/products\/1776046346_bungasatin1.jpeg",
+            "uploads\/products\/1776046394_bungasatin.jpeg",
+            "uploads\/products\/1776046469_bungasatin2.jpeg",
+            "uploads\/products\/1776046555_bungasatin3.jpeg"
+        ],
+        "photo": "uploads\/products\/1776046565_bungasatin3.jpeg"
+    },
+    {
+        "id": "money",
+        "name": "Buket Uang",
+        "price_s": 200000,
+        "price_m": 350000,
+        "price_l": 550000,
+        "icon": "\ud83d\udcb5",
+        "color": null,
+        "photos": [
+            "uploads\/products\/1776046710_uang1.jpeg",
+            "uploads\/products\/1776046798_uang2.jpeg",
+            "uploads\/products\/1776046810_uang3.jpeg"
+        ]
+    },
+    {
+        "id": "snack",
+        "name": "Buket Boneka Graduation",
+        "price_s": 80000,
+        "price_m": 150000,
+        "price_l": 250000,
+        "icon": "\ud83c\udf6b",
+        "color": null,
+        "photos": [
+            "uploads\/products\/1776046740_wisuda1.jpeg",
+            "uploads\/products\/1776046753_wisuda2.jpeg"
+        ]
+    }
+]
