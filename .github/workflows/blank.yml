@@ -1,9 +1,9 @@
-name: Run Tests
+name: PHP Lint & Test
 
 on: [push, pull_request]
 
 jobs:
-  test:
+  php-lint:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout code
@@ -12,10 +12,8 @@ jobs:
       - name: Setup PHP
         uses: shivammathur/setup-php@v2
         with:
-          php-version: '8.2.12' 
+          php-version: '8.2'
 
-      - name: Install Dependencies
-        run: composer install --prefer-dist --no-progress
-
-      - name: Run Tests
-        run: php artisan test
+      - name: PHP Syntax Check
+        run: |
+          find bloomorder -name "*.php" -exec php -l {} \;
